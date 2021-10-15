@@ -36,7 +36,6 @@ Dans notre application la racine est une structure de donnée appelée contact q
 
 -Les feuilles de cet arbre sont les noms de contact, chacune pointe vers un frère qui est un nom de contact et ils ont ne possèdent pas de fils.
 
-(Voir: tree.png)
 
 //Le langage utilisé
 
